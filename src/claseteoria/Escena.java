@@ -36,7 +36,7 @@ public class Escena {
         System.out.println("Elija una opcion"
                 + " A--Izquierda\n"
                 + " S--Abajo\n"
-                + " W--Arriba\n"
+                + " D--Arriba\n"
                 + " D--Derecha\n"
                 + " E--Salir del juego\n");
                 //+ " C--Cambiar el auto");
