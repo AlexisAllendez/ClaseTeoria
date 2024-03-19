@@ -75,7 +75,7 @@ public class Escena {
             } if(autito.isChocado()) {
                 System.out.println("El auto esta chocado,¿desea cambiarlo? "
                         + " 1.Cambiarlo "
-                        + " 2.no cambiarlo" );
+                        + " 2.no cambiarlooo" );
                 Scanner leerCambio = new Scanner(System.in);
                 int opcionCambio = leerCambio.nextInt();
                 
@@ -95,7 +95,7 @@ public class Escena {
                     + " S--Abajo\n"
                     + " W--Arriba\n"
                     + " D--Derecha\n"
-                    + " E--Salir del juego\n");
+                    + " E--Salir del juego\nn");
                    // + " C--Cambiar el auto");
             
             opcion = leer.nextLine();
